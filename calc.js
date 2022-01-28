@@ -31,7 +31,7 @@ res.innerHTML=mul
 
 }
 function subtract(){
-    let sub = "sum: "+ (num1-num2)
+    let sub = "subtraction: "+ (num1-num2)
 res.innerHTML=sub
 
 
